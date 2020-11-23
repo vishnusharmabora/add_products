@@ -28,7 +28,7 @@ class HomeController extends Controller
     {
 
 
-        
+           $a = 'vishnu';
         return view('home');
     }
 
